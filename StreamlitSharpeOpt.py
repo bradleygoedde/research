@@ -1,6 +1,6 @@
 # %% Importing Big Functions
 import SharpeOptFunctions as func
-from iexfinance.stocks import get_historical_data
+#from iexfinance.stocks import get_historical_data
 import torch
 import datetime as dt
 import numpy as np
