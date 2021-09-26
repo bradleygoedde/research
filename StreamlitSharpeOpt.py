@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
-pip install openpyxl
+conda install -c anaconda xlrd
 
 st.write("""
 # Sharpe Ratio Maximization App
